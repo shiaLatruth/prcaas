@@ -8,6 +8,10 @@ Public Relations Council as a Service
 
 For Aaron (heart), Ed (foresight), and all those yet to display courage in the face of tyranny.
 
+"If you tell a lie big enough and keep repeating it, people will eventually come to believe it. The lie can be maintained only for such time as the State can shield the people from the political, economic and/or military consequences of the lie. It thus becomes vitally important for the State to use all of its powers to repress dissent, for the truth is the mortal enemy of the lie, and thus by extension, the truth is the greatest enemy of the State."
+
+-- JOSEPH GOEBELLS
+
 ## References
 Alter, A. L. (2017). Irresistible: The rise of addictive technology and the business of keeping us hooked. New York: Penguin Press.
 
