@@ -1,10 +1,10 @@
 # Public Relations Council as a Service
 Public Relations Council as a Service
 
-
 - Dustan Curtis, Athabasca University
 - July 17, 2017
-- Version: 0.2.0, release candidate
+- Version: 0.2.1, release candidate
+- TRUTH SEEKERS: http://bit.ly/2uTacmk
 
 For Aaron (heart) and Ed (foresight), and all those yet to display courage in the face of tyranny.
 
