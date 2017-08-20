@@ -12,6 +12,11 @@ For Aaron (heart), Ed (foresight), and all those yet to display courage in the f
 
 — JOSEPH GOEBELLS
 
+## Abstract
+This paper introduces a novel concept for manipulating conversation at scale by way of a big social data system termed the "Public Relations Council as a Service" (PRCaaS). By combining psychometric profiling models with machine reinforcement learning techniques and cloud services, it becomes possible to engineer a self-reinforcing propaganda system that learns and generates propaganda directly from a target population's event and communication data (their "digital footprint"). As the volume of propaganda generation and delivery increases it becomes possible to control the conversation across digital social platforms. The combination of services, agents, and datastores that make up the system are detailed and sample code for the propaganda engine is provided. Given that effective propaganda drives real-world actions, the result of the well-implemented PRCaaS is the ability to manipulate real outcomes within a population towards a specific goal. Through proper preparation and implementation, the resulting service provides a faithfully automated version of Edward Bernays's Public Relations Council (Bernays, 2011), albeit adopted for the digital age. Finally, given the availability of this technology, the text briefly examines potential population scale manipulations that could result from the well-implemented system.
+
+**Keywords**: computational propaganda, big social data, propaganda engine
+
 ## References
 Alter, A. L. (2017). Irresistible: The rise of addictive technology and the business of keeping us hooked. New York: Penguin Press.
 
