@@ -6,7 +6,7 @@ Public Relations Council as a Service
 - Version: 0.2.1, release candidate
 - TRUTH SEEKERS: http://bit.ly/2uTacmk
 
-For Aaron (heart) and Ed (foresight), and all those yet to display courage in the face of tyranny.
+For Aaron (heart), Ed (foresight), and all those yet to display courage in the face of tyranny.
 
 ## References
 Alter, A. L. (2017). Irresistible: The rise of addictive technology and the business of keeping us hooked. New York: Penguin Press.
